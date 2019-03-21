@@ -1,1 +1,2 @@
-this is readme
+# Template
+Template untuk buku informatika standar
